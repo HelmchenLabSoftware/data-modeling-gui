@@ -17,6 +17,7 @@ TODO:
         - Right click delete column
         - Add enum column
         - Add function of column
+        - Mark columns as categorical/continuous
     * Model Fitting
         * OLS - Select vars, use autodetected categorical, report F-Statistic
         * OLS CrossValidate
